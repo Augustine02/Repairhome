@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723806885759",
+    "project_id": "repairhome-c5f64",
+    "storage_bucket": "repairhome-c5f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723806885759:android:72a22c63bc0aac25eb2c4a",
+        "android_client_info": {
+          "package_name": "com.example.repairhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723806885759-qbc0h0pin299htn3fchgomtsgd00kbu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIQ1_TdXe0Uczn6wkJsUPS8mvwd0p_UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723806885759-qbc0h0pin299htn3fchgomtsgd00kbu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
